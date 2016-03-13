@@ -1,6 +1,6 @@
 name: Olly Hermon-Taylor
 favicon: null
-layout_spectrum: 0.618258819449693
+layout_spectrum: 0.61453
 typography_spectrum: 0.34575721621513367
 title: Olly Hermon-Taylor Coaching For Life
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#081110'
+    - '#d5dbd7'
+    - '#3d3d26'
+    - '#a6a7a1'
   brandStrength: 0.02278648759238422
   lightness: 0.8432647129520774
   saturation: 0.015053452458232641
