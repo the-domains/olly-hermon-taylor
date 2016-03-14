@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Low Bridge Rotations & Ido's Lizard Crawl"
-datePublished: '2016-03-13T09:39:50.743Z'
-dateModified: '2016-03-13T09:18:56.987Z'
-title: ''
+description: ''
+datePublished: '2016-03-14T12:19:07.723Z'
+dateModified: '2016-03-14T12:18:56.797Z'
+title: "Low Bridge Rotations & Ido's Lizard Crawl"
 author: []
 authors: []
 publisher:
@@ -23,5 +23,3 @@ _type: Article
 
 ---
 Low Bridge Rotations & Ido's Lizard Crawl
-
-https://youtu.be/RHBaX\_2Lh04
