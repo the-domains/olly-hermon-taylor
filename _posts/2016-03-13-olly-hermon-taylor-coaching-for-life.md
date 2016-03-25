@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "As a coach, my goal is to help you breakthrough limiting beliefs and patterns of behaviour and get out of the rut you're in so you can move forwards with your life in all areas: Mind, Body, Relationships and Business, Happiness."
-datePublished: '2016-03-14T12:15:25.738Z'
-dateModified: '2016-03-14T12:15:14.550Z'
+datePublished: '2016-03-25T21:02:25.750Z'
+dateModified: '2016-03-14T12:15:32.374Z'
 title: 'Olly Hermon-Taylor: Coaching For Life'
 author: []
 sourcePath: _posts/2016-03-13-olly-hermon-taylor-coaching-for-life.md
