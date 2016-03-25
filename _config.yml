@@ -1,29 +1,41 @@
-name: Olly Hermon-Taylor
-favicon: null
-layout_spectrum: 0.60725
-typography_spectrum: 0.60533
 title: Olly Hermon-Taylor Coaching For Life
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.3442535
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#0D1D3A'
+    - '#B5A1AD'
+    - '#CFE9E9'
+    - '#4A879C'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Olly Hermon-Taylor
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#081110'
-    - '#d5dbd7'
-    - '#3d3d26'
-    - '#a6a7a1'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.7019334
+layout_spectrum: 0.60725
